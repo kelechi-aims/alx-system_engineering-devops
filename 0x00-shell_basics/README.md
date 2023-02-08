@@ -4,3 +4,4 @@
 3-listfiles contains Display current directory contents in a long format
 4-listmorefiles contains command that displays current directory contents, including hidden files
 5-listfilesdigitonly contains command that list contentin long format including hidden files and digit
+6-firstdirectory has command for creating directory
