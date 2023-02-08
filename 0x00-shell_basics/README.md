@@ -7,3 +7,4 @@
 6-firstdirectory has command for creating directory
 7-movethatfile contains command for moving files
 8-firstdelete contains command for deleting a file
+9-firstdirdeletion contains command for deleting non empty directory
