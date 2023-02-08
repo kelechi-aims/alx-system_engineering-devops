@@ -9,3 +9,4 @@
 8-firstdelete contains command for deleting a file
 9-firstdirdeletion contains command for deleting non empty directory
 10-back contains command for changing working directory to the previous one
+11-lists has command for listing with characters
