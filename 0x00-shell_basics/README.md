@@ -11,3 +11,4 @@
 10-back contains command for changing working directory to the previous one
 11-lists has command for listing with characters
 12-file_type contains command that describes file type
+13-symbolic_link contains command for symbolic link
