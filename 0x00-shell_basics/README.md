@@ -14,3 +14,4 @@
 13-symbolic_link contains command for symbolic link
 14-copy_html contains command for copying from working to parent directory with wildcards as task required
 100-lets_move contains command for task-15 of shell basics
+101-clean_emacs contains command for deleting file ending with a character in a current working directory
