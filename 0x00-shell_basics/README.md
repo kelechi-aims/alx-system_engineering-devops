@@ -17,3 +17,4 @@
 101-clean_emacs contains command for deleting file ending with a character in a current working directory
 102-tree contains command for creating tree of directories
 103-commas contains command for task-18 of shell basics
+school.mgc contains command for task-19 of shell basics
