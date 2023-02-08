@@ -5,3 +5,4 @@
 4-listmorefiles contains command that displays current directory contents, including hidden files
 5-listfilesdigitonly contains command that list contentin long format including hidden files and digit
 6-firstdirectory has command for creating directory
+7-movethatfile contains command for moving files
