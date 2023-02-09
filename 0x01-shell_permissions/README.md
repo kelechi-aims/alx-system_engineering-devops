@@ -4,3 +4,4 @@ task-3 has command to change the owner of a file
 4-empty is for creating file hello
 5-execute is for executing permission
 6-multiple_permissions gives execute permission to everybody
+7-everybody gives executing permission to everybody
