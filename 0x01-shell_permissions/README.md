@@ -10,3 +10,4 @@ task-3 has command to change the owner of a file
 10-mirror_permissions copies permission from one f
 ile to another
 11-directories_permissions gives executing permission to subdirectories
+12-directory_permissions creates directory with specific permission
