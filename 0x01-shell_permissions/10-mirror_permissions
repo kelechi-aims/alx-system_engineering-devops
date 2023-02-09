@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod --reference=olleh hello
-10-mirror_permissions copies permission from one file to another

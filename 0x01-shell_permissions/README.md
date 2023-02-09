@@ -7,3 +7,5 @@ task-3 has command to change the owner of a file
 7-everybody gives executing permission to everybody
 8-James_Bond grants only others permission
 9-John_Doe is giving a specific permission
+10-mirror_permissions copies permission from one f
+ile to another
