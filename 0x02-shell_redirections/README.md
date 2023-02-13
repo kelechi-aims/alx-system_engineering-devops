@@ -16,4 +16,5 @@ ls_cwd_content inputs the output of a command into a file
 15-countthatword displays the number of lines that contain a specific pattern
 16-whatsnext displays lines containing a specific pattern  and 3 lines after them in the file 
 17-hidethisword displays line that do not contain a specific pattern in a file
-18-letteronly displays all lines of a file starting with a letter including capital letters 
+18-letteronly displays all lines of a file starting with a letter including capital letters
+19-AZ replaces some lettters with another letters 
