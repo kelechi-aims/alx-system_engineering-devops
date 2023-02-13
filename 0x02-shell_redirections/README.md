@@ -20,4 +20,5 @@ ls_cwd_content inputs the output of a command into a file
 19-AZ replaces some lettters with another letters
 20-hiago removes all of a specify letter and replaces them with another letter
 21-reverse reverses it's input
-22-users_and_homes displays all users and their home directories, sorted by users 
+22-users_and_homes displays all users and their home directories, sorted by users
+100-empty_casks displays solution to task-23 of shell redirections 
