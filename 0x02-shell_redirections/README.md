@@ -7,3 +7,4 @@
 6-third_line displays the third line of a file
 7-files creates a file with a texts inscrbe into it
 ls_cwd_content inputs the output of a command into a file
+9-duplicate_last_line duplicates the last line of a file
