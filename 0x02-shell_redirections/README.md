@@ -11,3 +11,4 @@ ls_cwd_content inputs the output of a command into a file
 10-no_more_js removes all .js files
 11-directories count directory and subdirectory
 12-newest_files display the 10 newest files in a directory
+13-unique displays unique input
