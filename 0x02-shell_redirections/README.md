@@ -22,4 +22,5 @@ ls_cwd_content inputs the output of a command into a file
 21-reverse reverses it's input
 22-users_and_homes displays all users and their home directories, sorted by users
 100-empty_casks displays solution to task-23 of shell redirection
-101-gifs displays solution to task-24 of shell redirections 
+101-gifs displays solution to task-24 of shell redirections
+102-acrostic displays solution to task25 of shell redirections 
