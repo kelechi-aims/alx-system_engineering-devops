@@ -13,4 +13,5 @@ ls_cwd_content inputs the output of a command into a file
 12-newest_files display the 10 newest files in a directory
 13-unique displays unique input
 14-findthatword display lines containing a specific pattern 
-15-countthatword displays the number of lines that contain a specific pattern 
+15-countthatword displays the number of lines that contain a specific pattern
+16-whatsnext displays lines containing a specific pattern  and 3 lines after them in the file  
