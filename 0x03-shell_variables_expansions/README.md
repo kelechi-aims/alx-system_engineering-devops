@@ -9,3 +9,4 @@
 8-true_knowledge prints the addition of 128 with the value stored in the environment variable
 9-divide_and_rule prints the result of division of two environment variables
 10-love_exponent_breath displays the result of an exponential arithmetics
+11-binary_to_decimal converts a number from base 2 to base 10
