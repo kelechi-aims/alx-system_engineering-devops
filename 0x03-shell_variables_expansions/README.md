@@ -4,3 +4,4 @@
 3-paths counts the number of subdirectories in specific directories
 4-global_variables lists enviroment variables
 5-local_variables lists local and environment variables and functions
+6-create_local_variable creates a new local variable
