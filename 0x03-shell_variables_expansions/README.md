@@ -15,3 +15,4 @@
 100-decimal_to_hexadecimal converts a number from base 10 to base 16
 101-rot13 encodes and decodes text using the rot13 encryption. Assume ASCII
 102-odd prints every other line from the input, starting with the first line.
+103-water_and_stir adds two numbers stored in various environment variables and print the result in their respetive bases
