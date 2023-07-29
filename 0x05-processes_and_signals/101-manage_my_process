@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #manages manage_my_process
-./lib/lsb/init-function
 FILE=/var/run/my_process.pid
 
 start()
