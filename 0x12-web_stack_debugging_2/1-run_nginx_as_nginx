@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Stop the existing Nginx service
+service nginx stop
+
+# Modify the Nginx configuration to run as the nginx user and listen on port 8080
+sed -i 's/user\s*nginx;/user nginx;\n    listen 8080 default_server;/g' /etc/nginx/nginx.conf
+
+# Start the Nginx service
+service nginx start

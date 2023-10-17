@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Your Bash script must be 7 lines long or less
+sed -i 's/user\s*nginx;/user nginx;\n    listen 8080 default_server;/g' /etc/nginx/nginx.conf
+service nginx restart
