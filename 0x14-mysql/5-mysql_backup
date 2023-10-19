@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# generates a MySQL dump and creates a compressed archive out of it.
+# MySQL dump command to create backup.sql
+mysqldump -u root -p"$1" --all-databases > backup.sql
+# Create a tar.gz archive with the dump file
+tar -czf "$(date +%d-%m-%Y).tar.gz" backup.sql
