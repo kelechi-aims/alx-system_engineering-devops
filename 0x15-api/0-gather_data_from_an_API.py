@@ -15,7 +15,9 @@ if __name__ == '__main__':
     user_data = user_response.json()
     employee_name = user_data.get('name')
 
-    todos_data = requests.get(url + "user/{}/todos".format(argv[1])).json()
+    todos_endpoint = '{}todos?userId={}'.format(url, argv[1])
+    todos_response = requests.get(todos_endpoint)
+    todos_data = todos_response.json()
 
     completed_tasks = []
     for task in todos_data:
