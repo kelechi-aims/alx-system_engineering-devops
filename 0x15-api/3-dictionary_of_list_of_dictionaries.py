@@ -3,8 +3,8 @@
 Script that, using this REST API, gets information about TODO
 list progress for all employees and exports it to a JSON file.
 """
-import requests
 import json
+import requests
 
 if __name__ == '__main__':
     url = 'https://jsonplaceholder.typicode.com/'
