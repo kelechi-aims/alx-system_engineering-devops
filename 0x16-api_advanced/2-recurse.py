@@ -16,7 +16,7 @@ def append_title(hot_list, posts):
 
 
 def recurse(subreddit, hot_list=[], after=None):
-    """ 
+    """
     Returns a list containing the titles of all hot
     articles for a given subreddit
     """
