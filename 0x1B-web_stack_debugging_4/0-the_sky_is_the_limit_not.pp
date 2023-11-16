@@ -7,6 +7,6 @@ exec { 'adjust_nginx_request_limit':
 
 # Restart Nginx service after adjusting the request limit
 exec {'restart_nginx':
-  command     => 'sudo service nginx restart',
-  path        => ['/bin', '/usr/bin'],
+  command => 'sudo service nginx restart',
+  path    => ['/bin', '/usr/bin'],
 }
